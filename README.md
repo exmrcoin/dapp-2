@@ -1,2 +1,2 @@
 # dApp's
-Creation of applications with implementations for EXMR FDN. token
+Creation of dApp #2 with implementations for EXMR FDN. token
