@@ -2,4 +2,4 @@
 # dApp's
 Creation of dApp #2 with implementations for EXMR FDN. token
 
-# We are integrating the developers to start this May 2020
+# We are integrating the developers to start soon as possible.
